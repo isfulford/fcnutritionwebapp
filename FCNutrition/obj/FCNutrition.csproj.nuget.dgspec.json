@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcmims1\\source\\repos\\fcnutritionwebapps\\FCNutrition\\FCNutrition.csproj": {}
+    "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcmims1\\source\\repos\\fcnutritionwebapps\\FCNutrition\\FCNutrition.csproj": {
+    "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcmims1\\source\\repos\\fcnutritionwebapps\\FCNutrition\\FCNutrition.csproj",
+        "projectUniqueName": "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj",
         "projectName": "FCNutrition",
-        "projectPath": "C:\\Users\\lcmims1\\source\\repos\\fcnutritionwebapps\\FCNutrition\\FCNutrition.csproj",
-        "packagesPath": "C:\\Users\\lcmims1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcmims1\\source\\repos\\fcnutritionwebapps\\FCNutrition\\obj\\",
+        "projectPath": "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj",
+        "packagesPath": "C:\\Users\\jaide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lcmims1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jaide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
