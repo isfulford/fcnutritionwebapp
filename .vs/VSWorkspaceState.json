@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FCNutrition",
+    "\\FCNutrition\\Data"
   ],
-  "SelectedNode": "\\C:\\Users\\lcmims1\\Source\\Repos\\fcnutritionwebapps",
+  "SelectedNode": "\\FCNutrition\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
