@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj": {}
+    "C:\\Users\\jaide\\source\\repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj": {
+    "C:\\Users\\jaide\\source\\repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj",
+        "projectUniqueName": "C:\\Users\\jaide\\source\\repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj",
         "projectName": "FCNutrition",
-        "projectPath": "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj",
+        "projectPath": "C:\\Users\\jaide\\source\\repos\\fcnutritionwebapp\\FCNutrition\\FCNutrition.csproj",
         "packagesPath": "C:\\Users\\jaide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaide\\Source\\Repos\\fcnutritionwebapp\\FCNutrition\\obj\\",
+        "outputPath": "C:\\Users\\jaide\\source\\repos\\fcnutritionwebapp\\FCNutrition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
